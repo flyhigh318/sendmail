@@ -1,7 +1,7 @@
-###要求版本：
-*python 3.6
-*源码安装在/home/devops/python3.6.2
-*在linux环境运行
+### 要求版本：
+* python 3.6
+* 源码安装在/home/devops/python3.6.2
+* 在linux环境运行
 
 ### 部署
 * git clone URL
